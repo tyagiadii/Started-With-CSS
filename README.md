@@ -1,10 +1,9 @@
-# 🎨 CSS Practice Projects
+# 🎨Cascading Style Sheets
 
 Welcome to my CSS learning repository! This project includes a series of folders and mini-projects designed to master fundamental and advanced CSS concepts step-by-step.
-
 Each folder focuses on a specific topic or project and includes HTML and CSS files that demonstrate practical applications.
 
-## 📁 Folder Structure
+## 📁Folder Structure
 
 | Folder Name        | Description |
 |--------------------|-------------|
@@ -19,7 +18,7 @@ Each folder focuses on a specific topic or project and includes HTML and CSS fil
 | `09_responsive`    | Responsive design techniques using media queries. |
 | `10_bootstrap`     | Introduction to Bootstrap framework for fast and responsive web development. |
 
-## 📦 How to Use
+## 📦How to Use
 
 1. Clone the repository:
 
@@ -28,17 +27,17 @@ git clone https://github.com/your-username/your-repo-name.git
 Navigate into any folder and open the HTML file in your browser to view the results.
 Edit the CSS files as you learn and experiment.
 
-🧠 Purpose
+🧠Purpose
 This repository serves as a learning and reference resource for:
 Beginners who want to learn CSS hands-on
 
 Building a CSS portfolio
 Revisiting core and modern layout systems (Flexbox, Grid, etc.)
 
-🛠️ Technologies Used
+🛠️Technologies Used
 HTML5
 CSS3
-Bootstrap (in 10_bootstrap)
+Bootstrap
 
 📝 Author
 Ashwani Tyagi
